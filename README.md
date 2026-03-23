@@ -20,11 +20,11 @@
 2. Active Buzzer (Audio Feedback)
 
 🕹️ **How to Play**
-**Idle State**: The LCD will display "TAP YOUR ID".
-**Activation**: Scan a valid RFID card to unlock the system.
-**Detection**: Step within 5 inches of the ultrasonic sensor to trigger the player detection sequence.
-**Gameplay**: After a 5-second countdown, navigate the ring through the maze. Avoid touching the wire!
-**Winning**: Reach the End Plate before time expires to trigger the victory sequence.
+1. **Idle State**: The LCD will display "TAP YOUR ID".
+2. **Activation**: Scan a valid RFID card to unlock the system.
+3. **Detection**: Step within 5 inches of the ultrasonic sensor to trigger the player detection sequence.
+4. **Gameplay**: After a 5-second countdown, navigate the ring through the maze. Avoid touching the wire!
+5. **Winning**: Reach the End Plate before time expires to trigger the victory sequence.
 
 💻 **Software & Installation**
 1. Install the Arduino IDE.
