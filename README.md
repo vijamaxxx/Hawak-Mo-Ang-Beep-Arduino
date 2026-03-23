@@ -3,9 +3,9 @@
 📋 System Overview
 "Hawak Mo Ang Beep" is a single-player precision game where players navigate a metal ring along a wire maze within a 5-minute limit. The system features:
 
-**RFID Activation**: The game remains locked until a valid ID card is scanned.
-**Proximity Detection**: An ultrasonic sensor detects the player within 5 inches to start the countdown.
-**Dynamic Penalty System**: Every mistake (ring touching the wire) deducts 10 seconds from the timer and triggers an audio-visual alert.
+1. **RFID Activation**: The game remains locked until a valid ID card is scanned.
+2. **Proximity Detection**: An ultrasonic sensor detects the player within 5 inches to start the countdown.
+3. **Dynamic Penalty System**: Every mistake (ring touching the wire) deducts 10 seconds from the timer and triggers an audio-visual alert.
 
 🛠️ **Hardware Components**
 **Microcontroller**: Arduino
